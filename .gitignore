@@ -87,3 +87,17 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+
+# My Virtualenv
+.Python
+bin
+lib
+include
+.py[cod]
+
+# Mac OS X custom attribute files
+.DS_Store
+
+
