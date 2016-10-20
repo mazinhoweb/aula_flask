@@ -2,9 +2,10 @@
 Aula de Flask (Python Framework)
 
 # Flask é um microframework do Python
+```
 Documentação: http://flask.pocoo.org/
 Versão: 0.11
-
+```
 # Clone o projeto
 git clone https://github.com/mazinhoweb/aula_flask.git
 
