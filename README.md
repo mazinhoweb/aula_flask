@@ -22,4 +22,4 @@ $ pip install -r requirements.txt
 
 
 ### URL de acesso
-- URL da aplicação: http://localhost:5002/
+- URL da aplicação: http://127.0.0.1:5010/ 
