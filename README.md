@@ -2,8 +2,8 @@
 - Aula de Flask (Python Framework)
 
 ## Flask é um microframework do Python
-> Documentação: http://flask.pocoo.org/
-> Versão: 0.11
+- Documentação: http://flask.pocoo.org/
+- Versão: 0.11
 
 ## Clone o projeto
 ```
@@ -18,4 +18,4 @@ $ pip install -r requirements.txt
 ```
 
 ## URL de acesso
-URL da aplicação: http://localhost:5002/
+- URL da aplicação: http://localhost:5002/
